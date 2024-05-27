@@ -72,7 +72,7 @@ We'd also love PRs. If you're thinking of a large PR, we advise opening up an is
 **10.** Setup a reference(remote) to the original repository to get all the changes from the remote.
 
 ```
-   git remote add upstream https://github.com/SauravMukherjee44/Aec-Library-Website.git
+   git remote add upstream https://github.com/anshsingh7755/Niet-Library-Website.git
 ```
 
 **11.** Check the remotes for this repository.
