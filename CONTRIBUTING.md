@@ -2,7 +2,7 @@
 
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
 
-Please note that this project is released with a [Contributor Code of Conduct](https://github.com/SauravMukherjee44/Aec-Library-Website/blob/main/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/anshsingh7755/Niet-Library-Website/blob/main/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 ## Issues and PRs
 
@@ -12,14 +12,14 @@ We'd also love PRs. If you're thinking of a large PR, we advise opening up an is
 
 ## How to Contribute
 
-- Take a look at the Existing [Issues](https://github.com/SauravMukherjee44/Aec-Library-Website/issues) or create your own Issues!
+- Take a look at the Existing [Issues](https://github.com/anshsingh7755/Niet-Library-Website/issues) or create your own Issues!
 - Fork the Repo and create a Branch for any Issue that you are working upon.
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this is all about.
 
 ## How to make a Pull Request
 
-**1.** Fork the repository by clicking on the <a href="https://github.com/SauravMukherjee44/Aec-Library-Website"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
+**1.** Fork the repository by clicking on the <a href="https://github.com/anshsingh7755/Niet-Library-Website"><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> symbol at the top right corner.
 
 **2.** Clone the forked repository.
 
@@ -28,7 +28,7 @@ We'd also love PRs. If you're thinking of a large PR, we advise opening up an is
 ```
 
 ```
-   git clone https://github.com/your_user_name/Aec-Library-Website.git
+   git clone https://github.com/your_user_name/Niet-Library-Website.git
 ```
 
 **3.** Navigate to the project directory and initialize the git.
@@ -119,4 +119,4 @@ Work in Progress pull requests are also welcome to get feedback early on, or if 
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 - [GitHub Help](https://help.github.com)
-- [Beginner's guide to Hacktoberfest 2021](https://ayushirawat.com/beginners-guide-to-hacktoberfest-2021)
+
