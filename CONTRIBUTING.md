@@ -34,7 +34,7 @@ We'd also love PRs. If you're thinking of a large PR, we advise opening up an is
 **3.** Navigate to the project directory and initialize the git.
 
 ```
-   cd Aec-Library-Website
+   cd Niet-Library-Website
 ```
 
 ```
